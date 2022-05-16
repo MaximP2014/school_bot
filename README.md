@@ -1,2 +1,2 @@
-# school_bot
+# School bot
 School bot
