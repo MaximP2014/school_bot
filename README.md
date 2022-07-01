@@ -1,2 +1,2 @@
 # School bot
-School bot
+School bot project
